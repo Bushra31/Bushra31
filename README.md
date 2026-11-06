@@ -1,17 +1,11 @@
-# Hi there 👋
-
-I'm a second-year Electrical Engineering student at NUST (National University of Sciences and Technology). I enjoy robotics and embedded systems, mostly for what lies past the datasheet, when every component is within spec and the system still isn't.
-
----
-
 ## About Me
-
-- Robotics intern at the **Educational Robotics Lab, SEECS NUST**, May–Aug 2026. I built the episodic memory layer, gesture control, and a C# plugin for a humanoid robot's control software.
+- Electrical Engineering sophomore at NUST (National University of Sciences and Technology)
+- Robotics intern at the **Educational Robotics Lab, SEECS NUST**, May–Aug 2026. (episodic memory layer, gesture control, and a C# plugin for a humanoid robot's control software).
 - Email: **bushaq.ee47ceme@student.nust.edu.pk**
 
 ---
 
-## Technologies & Tools
+## Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
